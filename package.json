@@ -5,5 +5,9 @@
   "main": "bridge-react",
   "dependencies": {
     "module-library": "*"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erikpukinskis/bridge-react.git"
+  },
 }
