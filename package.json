@@ -1,7 +1,7 @@
 {
   "name": "bridge-react",
   "description": "React packaged for browser-bridge",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "bridge-react",
   "dependencies": {
     "module-library": "*"
